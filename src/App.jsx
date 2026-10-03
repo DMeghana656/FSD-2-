@@ -6,6 +6,8 @@ import Internships from "./components/Internships";
 import Applications from "./components/Applications";
 import InternshipStatus from "./components/InternshipStatus";
 import Certificates from "./components/Certificates";
+import Companies from "./components/Companies";
+import SearchBar from "./components/SearchBar";
 import "./App.css";
 
 function App() {
